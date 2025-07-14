@@ -35,3 +35,48 @@ To analyze monthly sales data across products, customers, and cities — and cre
 
 ## 📂 Folder Structure
 
+Ecommerce-Analysis-and-Dashboard/
+│
+├── Ecommerce Sales Analysis.xlsx # Main project workbook
+├── Ecommerce_Dashboard_Summary.pdf # Insights summary report (optional)
+├── README.md # Project documentation
+
+
+---
+
+## 📈 Project Impact
+
+- Enabled strategic decisions by identifying top cities and products
+- Detected data quality issues via duplicate order checks
+- Provided a reusable Excel dashboard format for business users
+- Helped visualize KPIs clearly through slicers and clean visuals
+
+---
+
+## 📋 Sample Data Columns
+
+- Order ID  
+- Customer Name  
+- Product  
+- Product Category  
+- Order Date  
+- City  
+- Quantity  
+- Price  
+- Payment Mode
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm **Pushpkar Roy**, a data analyst proficient in Excel, SQL, Power BI, and Python. This project was created as part of my hands-on learning journey in e-commerce data analytics.  
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/Pushpkar-Roy)  
+[GitHub](https://github.com/PushpkarRoy)
+
+---
+
+## ⭐ Star this repo if you find it helpful or inspiring!
+
+
